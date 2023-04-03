@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sand 7
+  m_Shader: {fileID: 4800000, guid: da9e1ff31e79fac4e9051092fdf45be3, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: {}
+    m_Ints: {}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FresnePow: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.13
+    - _GlossyReflections: 1
+    - _Height: 0.1412429
+    - _LightOverflowOffset: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Offset: -12.2
+    - _Parallax: 0.02
+    - _ReflectionSmoothness: 6
+    - _Slope2: 13.8
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 0.088
+    - _Specularity: 0.024
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZOffset: 0
+    - _ZOffsetScale: 0
+    - _ZWrite: 1
+    - _ZeroHeight: -2.11
+    m_Colors:
+    - _Color: {r: 0.61764705, g: 0.54949284, b: 0.4632353, a: 1}
+    - _ColorBottom: {r: 0.20038177, g: 0.2352941, b: 0.10207612, a: 1}
+    - _ColorTop: {r: 0.4852941, g: 0.39571646, b: 0.29974046, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Emissive: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

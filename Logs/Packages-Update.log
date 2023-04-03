@@ -1,0 +1,9 @@
+
+=== Wed Mar 29 19:21:20 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.6.11
+  com.unity.mathematics@1.2.5
